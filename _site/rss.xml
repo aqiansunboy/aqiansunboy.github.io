@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>前码前珍惜</title>
+    <link>http://aqiansunboy.github.io/</link>
+    <atom:link href="http://aqiansunboy.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <description>来自4399一个开发者的心声</description>
+    <language>zh-cn</language>
+    <pubDate>Wed, 17 Sep 2014 00:15:48 +0800</pubDate>
+    <lastBuildDate>Wed, 17 Sep 2014 00:15:48 +0800</lastBuildDate>
+
+    
+    <item>
+      <title>博客开篇</title>
+      <link>http://aqiansunboy.github.io/2014/09/17/helloword.html</link>
+      <pubDate>17 Sep 2014</pubDate>
+      <author>aqiansunboy</author>
+      <guid>http://aqiansunboy.github.io/2014/09/17/helloword</guid>
+      <description>&lt;p&gt;终归是搭建起了自己的第一个私人博客，这或许就是成长的第一步吧!&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;no&quot;&gt;NSLog&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Hello World!&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;此时此刻，我向这个世界问好!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
